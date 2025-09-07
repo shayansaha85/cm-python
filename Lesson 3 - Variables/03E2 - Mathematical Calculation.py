@@ -17,4 +17,9 @@ print('Chandini' + '75')
 
 # EXCEPTION WITH *
 
-print('*' * 10000)
+# print('*' * 10000)
+
+# Modulo --> % > reminder
+n = 5 % 2 # --> 1
+
+print(n)

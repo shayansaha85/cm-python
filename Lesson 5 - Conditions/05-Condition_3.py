@@ -1,13 +1,7 @@
 
-## NESTED IF
 
-"""
-Condition : 
-Indian, age >= 18
-"""
-
-country = 'Pakistan'
-age = 50
+country = input('Country : ')
+age = int(input('Age : '))
 
 if country == 'India':
       if age >= 18:
