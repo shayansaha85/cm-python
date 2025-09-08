@@ -13,11 +13,11 @@ pow = 5
 
 # 8
 print(base ** pow)
-print('Chandini' + '75')
+print('Chandini' + '75') # It will concatenate the strings 'Chandini' & '75' and output will be Chandini75
 
 # EXCEPTION WITH *
 
-# print('*' * 10000)
+print('*' * 10) # It will print '*' 10 times
 
 # Modulo --> % > reminder
 n = 5 % 2 # --> 1

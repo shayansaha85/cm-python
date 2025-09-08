@@ -11,5 +11,5 @@ number2 = 24
 k = 56
 p = 56
 
-print(k>=p)
-print(k<p)
+print(k>=p) # It returns True
+print(k<p) # It returns False
