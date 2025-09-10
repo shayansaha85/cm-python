@@ -16,6 +16,7 @@ print(sum)
 sum2 = 0
 # For each loop
 for n in num:
-      sum2 += n
+      if n%2 == 0:
+            sum2 += n
 
 print(sum2)
