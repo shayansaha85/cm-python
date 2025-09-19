@@ -1,0 +1,4 @@
+numpy --> array methods
+pandas --> interacting with dataframe --> html table, csv, excel..
+matplotlib --> 
+
